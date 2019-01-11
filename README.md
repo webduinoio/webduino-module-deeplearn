@@ -1,6 +1,6 @@
 # webduino-module-deeplearn
 
-Webduino Module for deeplearn.
+Webduino Module for Deep Learning.
 
 ## License
 
